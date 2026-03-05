@@ -367,28 +367,6 @@ aws s3 ls s3://your-bucket-name
 
 ---
 
-## 🤝 기여
-
-이슈 및 PR 환영합니다!
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
-
 ## 📄 라이선스
 
 MIT License - 자유롭게 사용, 수정, 배포 가능
-
----
-
-## 📞 문의
-
-- GitHub Issues: [이슈 등록](https://github.com/your-username/inventory-agent/issues)
-
----
-
-**⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요!**
