@@ -1,0 +1,20 @@
+{
+  "product_1": {
+    "name": "프리미엄 무선 이어폰",
+    "safety_stock": 150,
+    "lead_time_days": 5,
+    "warehouse_capacity": 1000,
+    "reorder_point": 300,
+    "supplier": "supplier_A",
+    "min_order_quantity": 100
+  },
+  "product_2": {
+    "name": "스마트 워치 밴드",
+    "safety_stock": 120,
+    "lead_time_days": 3,
+    "warehouse_capacity": 800,
+    "reorder_point": 200,
+    "supplier": "supplier_B",
+    "min_order_quantity": 80
+  }
+}
