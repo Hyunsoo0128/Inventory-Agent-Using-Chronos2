@@ -84,7 +84,7 @@ covariates = {
 ### 1단계: 저장소 클론
 
 ```bash
-git clone https://github.com/your-username/inventory-agent.git
+git clone https://github.com/Hyunsoo0128/inventory-agent.git
 cd inventory-agent
 ```
 
