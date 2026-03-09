@@ -1,4 +1,4 @@
-# 🚀 Chronos2 기반 쇼핑몰 재고관리 자동화 시스템
+# 🚀 Chronos2 기반 쇼핑몰 수요예측-재고관리 자동화 시스템
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
