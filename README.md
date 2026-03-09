@@ -113,13 +113,9 @@ chmod +x setup_s3.sh
 
 ### 5단계: Chronos2 엔드포인트 배포
 
-**방법 A: SageMaker Studio (권장 - 5분)**
-
-1. AWS Console → SageMaker Studio
-2. JumpStart → "chronos" 검색
-3. Chronos-T5-Large 선택 → Deploy
-4. 엔드포인트 이름: `chronos2-inventory`
-5. 인스턴스: `ml.g5.2xlarge`
+**방법 A: deploy-chronos-to-amazon-sagemaker**
+하기 레포 참고
+https://github.com/amazon-science/chronos-forecasting/blob/main/notebooks/deploy-chronos-to-amazon-sagemaker.ipynb
 
 **방법 B: Python 스크립트**
 
