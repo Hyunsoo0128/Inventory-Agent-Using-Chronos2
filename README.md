@@ -114,6 +114,7 @@ chmod +x setup_s3.sh
 ### 5단계: Chronos2 엔드포인트 배포
 
 **방법 A: deploy-chronos-to-amazon-sagemaker**
+
 하기 레포 참고
 https://github.com/amazon-science/chronos-forecasting/blob/main/notebooks/deploy-chronos-to-amazon-sagemaker.ipynb
 
