@@ -116,6 +116,7 @@ chmod +x setup_s3.sh
 **방법 A: deploy-chronos-to-amazon-sagemaker**
 
 하기 레포 참고
+
 https://github.com/amazon-science/chronos-forecasting/blob/main/notebooks/deploy-chronos-to-amazon-sagemaker.ipynb
 
 **방법 B: Python 스크립트**
